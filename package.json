@@ -1,0 +1,38 @@
+{
+  "name": "cryptoukr1a",
+  "version": "1.0.0",
+  "description": "Basic demostration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alsha17/cryptoukr1a.git"
+  },
+  "dependencies": {
+    "cryptoukr1a": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "teaispowerl": "1.0.0",
+    "sanulovetea": "1.0.0",
+   "insanetea": "1.0.0",
+   "herewegotea": "1.0.0",
+   "slaytea": "1.0.0",
+   "tea_kozmickai": "1.0.0",
+   "1337blacket": "1.0.0",
+   "maladoy4aek": "1.0.0",
+   "sharkyteeea": "1.0.0",
+   "babylon_chain-tea": "1.0.0",
+   "teaDonUkra": "1.0.0",
+   "join-apps-ios": "1.0.0",
+    "dodatok_team-tea": "1.0.0",
+   "okinawa_team-": "1.0.0",
+    "possible_ttt": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsha17/cryptoukr1a/issues"
+  },
+  "homepage": "https://github.com/alsha17/cryptoukr1a#readme"
+}
